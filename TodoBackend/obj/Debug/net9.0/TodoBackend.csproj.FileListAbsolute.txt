@@ -41,3 +41,4 @@
 /Users/rachelwong/projects/TodoBackend/TodoBackend/obj/Debug/net9.0/TodoBackend.pdb
 /Users/rachelwong/projects/TodoBackend/TodoBackend/obj/Debug/net9.0/TodoBackend.genruntimeconfig.cache
 /Users/rachelwong/projects/TodoBackend/TodoBackend/obj/Debug/net9.0/ref/TodoBackend.dll
+/Users/rachelwong/projects/TodoBackend/TodoBackend/obj/Debug/net9.0/TodoBackend.sourcelink.json
